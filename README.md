@@ -4,7 +4,7 @@
 
 
 
-#### 👋 Prazer me chamo Dhaniel Batista, sou programador em c#, atualmente Trabalho na empresa EVT como SAP PI Junior.  
+#### 👋 Prazer me chamo Dhaniel Batista, sou programador em c#, atualmente Trabalho na empresa EVT como Programador .Net Junior.  
 #### 🏠 Moro em Goiânia, Goiás. 
 #### 🚀 Possuo conhecimento em: 
 <div>
