@@ -1,26 +1,30 @@
-# 😺 Bem-Vindo ao meu Git! 😺
+### <samp>&gt; Olá, eu sou <a href="https://github.com/DhanielBatista" target="_blank">Dhaniel Batista</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-![Satoru hello](https://c.tenor.com/H-NXH7iOy_gAAAAC/gojo-satoru-jujutsu-kaisen.gif)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dhaniel)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dhanielbatista@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DhanielBatista)
+
+### Que bom ver você aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DhanielBatista.DhanielBatista)
+
+Sou um desenvolvedor **Full Stack** apaixonado por tecnologia. Estou sempre em busca de aprendizado contínuo e novos desafios.
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" width="400" height="231" />
 
 
+### 👨‍💻 Sobre Mim:
 
-#### 👋 Prazer me chamo Dhaniel Batista, sou programador em c#, atualmente Trabalho na empresa EVT como Programador .Net Junior.  
-#### 🏠 Moro em Goiânia, Goiás. 
-#### 🚀 Possuo conhecimento em: 
-<div>
-<img align="center"alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="center"alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img align="center"alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img align="center"alt="SQL SERVER" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center"alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</div>
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Atualmente desenvolvendo projetos com C#, TypeScript e React;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Estudando Pentest e Segurança da Informação;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Desenvolvendo uma plataforma autodidata para estudo de idiomas;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Como falar comigo: dhanielbatista@gmail.com / (62)99399-9502;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; Meu Currículo: [Currículo](https://drive.google.com/file/d/1RAyehDKzGLOzkSPbQ5C4pOVoOxLLLRqa/view).
 
-###
 
-#### 📱 Você pode me encontrar no : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaniel-batista-8572088b/)
+### 🛠️ Habilidades Técnicas
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanielBatista&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- **Linguagens:** C#, JavaScript, TypeScript, HTML, CSS  
+- **Frameworks:** ASP.NET Web API, Entity Framework, React.js, Next.js  
+- **Bibliotecas:** Material UI, Styled Components, CSS Modules, Tailwind  
+- **Ferramentas:** Git, Azure DevOps, Postman  
+- **Banco de Dados:** MongoDB, MySQL, SQL Server  
+- **Boas Práticas:** Clean Code, Clean Architecture, SOLID
