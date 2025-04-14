@@ -8,7 +8,7 @@
 
 Sou um desenvolvedor **Full Stack** apaixonado por tecnologia. Estou sempre em busca de aprendizado contínuo e novos desafios.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" width="400" height="231" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" width="350" height="211" />
 
 
 ### 👨‍💻 Sobre Mim:
