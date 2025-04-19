@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dhanielbatista@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DhanielBatista)
 
-### Que bom ver você aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DhanielBatista.DhanielBatista)
+### Que bom ver você aqui! &nbsp;
 
 Sou um desenvolvedor **Full Stack** apaixonado por tecnologia. Estou sempre em busca de aprendizado contínuo e novos desafios.
 
